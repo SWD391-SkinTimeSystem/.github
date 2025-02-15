@@ -73,7 +73,7 @@ The context diagram below illustrates the interaction between the external actor
 - **Backend**: .NET
 - **Database**: MySQL
 - **Authentication**: 
-- **Payment Integration**: ZaloPay/PayPal
+- **Payment Integration**: ZaloPay/ VNPay
 
 ---
 
