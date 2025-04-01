@@ -5,6 +5,9 @@ The **Skincare Service Booking System** is designed to streamline the process of
 
 ---
 
+## DOCUMENT
+- [DOCUMENT](https://docs.google.com/document/d/175XiFym-YpAiUe4I1nQgz5gRQ5I5JFviCiXpIX6ph_A/edit?tab=t.0#heading=h.w1od5y64bg0k)
+
 ## 🛠️ Key Features
 - **Service Booking**: Customers can book, reschedule, or cancel skincare services.
 - **Event Management**: Managers can create, update, and monitor promotional events.
@@ -28,7 +31,22 @@ The **Skincare Service Booking System** is designed to streamline the process of
 ## 🔍 System Context Diagram
 The context diagram below illustrates the interaction between the external actors and the system. <br>
 
-![image](https://github.com/user-attachments/assets/40b405b4-4955-4bed-857b-042ec44c2ae9)
+![image](![Context diagram-Final](https://github.com/user-attachments/assets/814eb86a-3a7b-4df8-8934-5e9dbc1fe8f3)
+)
+
+## System Architecture 
+
+![System architecture](https://github.com/user-attachments/assets/13bb6753-5783-4220-87b8-64ae5de87e88)
+
+## Package Diagram
+
+- Backend package:
+![Another Diagram-Package Diagram Back-end](https://github.com/user-attachments/assets/56096160-c2d7-4343-96e1-442a30abc82c)
+
+- Frontend package:
+![Another Diagram-Package diagram front-end (1)](https://github.com/user-attachments/assets/bd2e333d-cc37-4c67-ac7c-087d82d1cda2)
+
+
 
 
 **Explanation:**
